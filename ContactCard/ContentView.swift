@@ -25,6 +25,7 @@ struct ContentView: View {
                     .font(.title)
                     .bold()
                 Text("anushasgarg@gmail.com")
+                Text("https://github.com/AnushaGaargya")
                     
                 
                 
