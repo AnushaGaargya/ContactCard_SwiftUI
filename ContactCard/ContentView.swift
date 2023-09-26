@@ -24,6 +24,7 @@ struct ContentView: View {
                 Text("iOS Developer")
                     .font(.title)
                     .bold()
+                Text("anushasgarg@gmail.com")
                     
                 
                 
